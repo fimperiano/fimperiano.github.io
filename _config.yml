@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Felipe Costa | Portfólio"
+title                    : "Felipe Costa"
 title_separator          : "-"
 name                     : &name "Felipe Costa"
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile34.jpg"
   name             : "Felipe Costa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MSc Student in Industrial Engineering at PUC-Rio"
   location         : "Rio de Janeiro, BR"
   employer         : "PUC-Rio"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : felipe-impcosta # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
