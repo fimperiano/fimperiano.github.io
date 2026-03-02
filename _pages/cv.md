@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<> * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!--> * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in  Industrial Engineering, Pontifical University of Rio de Janeiro (PUC-Rio), 2027 \[expected\]
 * B.S. in Economics, Federal University of Rio de Janeiro (UFRJ), 2014
 
