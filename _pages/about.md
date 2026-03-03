@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Data Science Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hi! I’m a data enthusiast passionate about turning raw data into meaningful insights. My work focuses on using statistics, machine learning, and data visualization to solve real-world problems and support data-driven decision-making.
+
+In this portfolio, you’ll find projects that showcase my experience with data cleaning, exploratory analysis, predictive modeling, and communicating results clearly and effectively. I enjoy working across the full data science workflow — from asking the right questions and wrangling messy datasets to building models and presenting actionable insights.
+
+I’m always learning, experimenting with new tools and techniques, and looking for opportunities to apply data science to impactful challenges.
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -50,6 +57,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
+-->
 
 For more info
 ------
