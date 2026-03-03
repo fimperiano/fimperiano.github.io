@@ -24,7 +24,6 @@ Education
 
 
 
---
 <!--
 Work experience
 ======
