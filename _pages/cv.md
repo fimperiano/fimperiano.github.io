@@ -15,6 +15,16 @@ Education
 * M.S. in  Industrial Engineering, Pontifical University of Rio de Janeiro (PUC-Rio), 2027 \[expected\]
 * B.S. in Economics, Federal University of Rio de Janeiro (UFRJ), 2014
 
+
+
+
+
+
+
+
+
+
+--
 <!--
 Work experience
 ======
