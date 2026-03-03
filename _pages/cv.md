@@ -14,7 +14,7 @@ Education
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S. in  Industrial Engineering, Pontifical University of Rio de Janeiro (PUC-Rio), 2027 \[expected\]
 * B.S. in Economics, Federal University of Rio de Janeiro (UFRJ), 2014
-
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
