@@ -1,4 +1,8 @@
-# ⚡Forecasting Brazilian Electricity Demand using TimeGPT
+---
+title: "⚡Forecasting Brazilian Electricity Demand using TimeGPT"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
 This study investigates the application of foundational models for forecasting the Brazilian hourly electricity load curve. Accurate and reliable electricity demand forecasts are critical for operational planning, resource allocation, and maintaining grid stability within complex energy systems. Given the increasing integration of renewable energy sources and the dynamic nature of energy consumption patterns, advanced forecasting methodologies are essential to address the inherent uncertainties in electricity markets.
 
@@ -241,7 +245,7 @@ nixtla_client.plot(
 
 
     
-![png](output_25_0.png)
+![png](/images/output_25_0.png)
     
 
 
@@ -327,7 +331,7 @@ nixtla_client.plot(
 
 
     
-![png](output_34_0.png)
+![png](/images/output_34_0.png)
     
 
 
@@ -384,7 +388,7 @@ nixtla_client.plot(
 
 
     
-![png](output_42_0.png)
+![png](/images/output_42_0.png)
     
 
 
