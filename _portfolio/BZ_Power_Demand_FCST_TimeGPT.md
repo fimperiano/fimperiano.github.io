@@ -1,6 +1,6 @@
 ---
 title: "⚡Forecasting Brazilian Electricity Demand using TimeGPT"
-excerpt: "Forecasting time series with AI 1<br/><img src='/images/TimeGPT/output_42_0.png'>"
+excerpt: "Forecasting time series with AI 1<br/><img src='/images/TimeGPT/output_42_0.png' width="500" height="300">"
 collection: portfolio
 ---
 
