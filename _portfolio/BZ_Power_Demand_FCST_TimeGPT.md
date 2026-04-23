@@ -1,6 +1,6 @@
 ---
 title: "⚡Forecasting Brazilian Electricity Demand using TimeGPT"
-excerpt: "Forecasting time series with AI 1<br/><img src='/images/500x300.png'>"
+excerpt: "Forecasting time series with AI 1<br/><img src='/images/TimeGPT/output_42_0.png'>"
 collection: portfolio
 ---
 
@@ -245,7 +245,7 @@ nixtla_client.plot(
 
 
     
-![png](/images/output_25_0.png)
+![png](/images/TimeGPT/output_25_0.png)
     
 
 
@@ -331,7 +331,7 @@ nixtla_client.plot(
 
 
     
-![png](/images/output_34_0.png)
+![png](/images/TimeGPT/output_34_0.png)
     
 
 
@@ -388,7 +388,7 @@ nixtla_client.plot(
 
 
     
-![png](/images/output_42_0.png)
+![png](/images/TimeGPT/output_42_0.png)
     
 
 
